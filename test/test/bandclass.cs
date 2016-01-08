@@ -39,10 +39,10 @@ namespace test
             string str1 = string.Concat(totalMilliseconds.ToString(), "$$ffffffff$$", BitConverter.ToString(numArray).Replace("-", string.Empty).ToLower());
             return Convert.ToBase64String(Encoding.UTF8.GetBytes(str1));
         }
-        public string getFullAuthToken()
+        public string getFullAuthToken() // (string UserID)
         {
-            string userid = "konachan@nate.com";
-            string token = "ac7a665d203749a094688293387725c6";
+            string userid = "konachan@nate.com"; // UserID;
+            string token = GetToken();
             string auth = userid + ":full_auth_token " + token;
             string result ="Basic "+ Convert.ToBase64String(Encoding.UTF8.GetBytes(auth));
             return result;
