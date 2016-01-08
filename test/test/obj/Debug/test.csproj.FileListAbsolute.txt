@@ -1,0 +1,8 @@
+c:\users\gc\documents\visual studio 2013\Projects\test\test\obj\Debug\test.Form1.resources
+c:\users\gc\documents\visual studio 2013\Projects\test\test\obj\Debug\test.Properties.Resources.resources
+c:\users\gc\documents\visual studio 2013\Projects\test\test\obj\Debug\test.csproj.GenerateResource.Cache
+c:\users\gc\documents\visual studio 2013\Projects\test\test\bin\Debug\test.exe
+c:\users\gc\documents\visual studio 2013\Projects\test\test\bin\Debug\test.pdb
+c:\users\gc\documents\visual studio 2013\Projects\test\test\obj\Debug\test.exe
+c:\users\gc\documents\visual studio 2013\Projects\test\test\obj\Debug\test.pdb
+C:\Users\gc\Documents\Visual Studio 2013\Projects\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
